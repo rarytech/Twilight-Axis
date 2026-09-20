@@ -2327,7 +2327,7 @@
 /area/rogue/under/kingtomb)
 "Gl" = (
 /obj/structure/fluff/statue/gargoyle/candles,
-/turf/open/floor/rogue/churchmarble,
+/turf/open/floor/rogue/carpet/lord/center,
 /area/rogue/under/kingtomb/bossarena)
 "Gm" = (
 /obj/structure/closet/crate/chest/old_crate,
@@ -5478,16 +5478,16 @@ FU
 FU
 FU
 FU
-rF
+FU
 aS
 FU
 FU
 WD
 FU
 FU
-aS
 FU
-aS
+FU
+FU
 FU
 IX
 kO
@@ -5685,7 +5685,7 @@ rF
 UZ
 bc
 FU
-FU
+je
 FU
 FU
 FU
@@ -5777,7 +5777,7 @@ oh
 je
 FU
 FU
-FU
+rF
 FU
 yM
 FU
@@ -5785,10 +5785,10 @@ FU
 FU
 FU
 FU
+Rj
 WD
-bc
 FU
-FU
+WD
 IX
 IX
 IX
@@ -5885,8 +5885,8 @@ hu
 GP
 FU
 bc
-je
-Gl
+Rj
+FU
 FU
 FU
 IX
@@ -6086,7 +6086,7 @@ Kh
 rb
 rb
 cl
-rb
+Gl
 rb
 rb
 aZ
@@ -6285,8 +6285,8 @@ ps
 Vd
 FU
 WD
-je
-Gl
+Rj
+FU
 FU
 FU
 IX
@@ -6377,7 +6377,7 @@ mP
 je
 FU
 FU
-FU
+rF
 FU
 yM
 FU
@@ -6385,10 +6385,10 @@ FU
 FU
 FU
 FU
+Rj
 bc
+FU
 WD
-FU
-FU
 IX
 IX
 IX
@@ -6485,7 +6485,7 @@ rF
 PD
 WD
 FU
-FU
+je
 FU
 FU
 FU
@@ -6678,16 +6678,16 @@ FU
 FU
 FU
 WD
-rF
+FU
 aS
 FU
 FU
 bc
 FU
 FU
-aS
 FU
-aS
+FU
+FU
 FU
 IX
 kO
